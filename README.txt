@@ -1,0 +1,1 @@
+  Este repositorio fue creado con el fin de almacenar los codigos independientes de cada funcion referente al proyecto con arduino de una máquina de garra en donde, se usarán sensores, motores, una placa de arduino, y por supuesto todo lo que compone la parte mecánica para el desarrollo
