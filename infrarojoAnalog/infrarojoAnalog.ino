@@ -14,3 +14,8 @@ void loop() {
   }
   
 }
+
+// este Codigo esta preparado para la conexion del led receptor en puerto A0, y leds, en donde, el receptor infrarojo tiene una resistencia de 1k
+// y el led que le sigue, tiene una resistencia de 270.
+
+// por  parte del emisor 680 para el led, y una de 2700 para el led 
